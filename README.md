@@ -38,7 +38,7 @@
 	{
 		"code3": "ARG",
 		"name": "Argentina",
-		"value": 5,
+		"value": 0,
 		"code": "AR"
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"code3": "AUS",
 		"name": "Australia",
-		"value": 50,
+		"value": 2,
 		"code": "AU"
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"code3": "CHN",
 		"name": "China",
-		"value": 10,
+		"value": 0,
 		"code": "CN"
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"code3": "GBR",
 		"name": "United Kingdom",
-		"value": 30,
+		"value": 0,
 		"code": "GB"
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"code3": "IND",
 		"name": "India",
-		"value": 10,
+		"value": 0,
 		"code": "IN"
 	},
 	{
@@ -920,7 +920,7 @@
 	{
 		"code3": "PNG",
 		"name": "Papua New Guinea",
-		"value": 20,
+		"value": 0,
 		"code": "PG"
 	},
 	{
@@ -1010,7 +1010,7 @@
 	{
 		"code3": "SGP",
 		"name": "Singapore",
-		"value": 40,
+		"value": 0,
 		"code": "SG"
 	},
 	{
@@ -1076,7 +1076,7 @@
 	{
 		"code3": "SWE",
 		"name": "Sweden",
-		"value": 10,
+		"value": 0,
 		"code": "SE"
 	},
 	{
@@ -1202,7 +1202,7 @@
 	{
 		"code3": "USA",
 		"name": "United States",
-		"value": 40,
+		"value": 0,
 		"code": "US"
 	},
 	{
@@ -1262,7 +1262,7 @@
 	{
 		"code3": "ZAF",
 		"name": "South Africa",
-		"value": 30,
+		"value": 0,
 		"code": "ZA"
 	},
 	{
