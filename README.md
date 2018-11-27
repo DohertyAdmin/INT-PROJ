@@ -104,7 +104,7 @@
 	{
 		"code3": "BGD",
 		"name": "Bangladesh",
-		"value": 0,
+		"value": 2,
 		"code": "BD"
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"code3": "BRN",
 		"name": "Brunei Darussalam",
-		"value": 0,
+		"value": 1,
 		"code": "BN"
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"code3": "CHN",
 		"name": "China",
-		"value": 0,
+		"value": 1,
 		"code": "CN"
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"code3": "CMR",
 		"name": "Cameroon",
-		"value": 0,
+		"value": 1,
 		"code": "CM"
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"code3": "FJI",
 		"name": "Fiji",
-		"value": 0,
+		"value": 2,
 		"code": "FJ"
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"code3": "GHA",
 		"name": "Ghana",
-		"value": 0,
+		"value": 1,
 		"code": "GH"
 	},
 	{
@@ -427,8 +427,8 @@
 	},
 	{
 		"code3": "GMB",
-		"name": "Gambia, The",
-		"value": 0,
+		"name": "The Gambia",
+		"value": 1,
 		"code": "GM"
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"code3": "IDN",
 		"name": "Indonesia",
-		"value": 0,
+		"value": 3,
 		"code": "ID"
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"code3": "IND",
 		"name": "India",
-		"value": 0,
+		"value": 2,
 		"code": "IN"
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"code3": "JPN",
 		"name": "Japan",
-		"value": 0,
+		"value": 1,
 		"code": "JP"
 	},
 	{
@@ -812,13 +812,13 @@
 	{
 		"code3": "MWI",
 		"name": "Malawi",
-		"value": 0,
+		"value": 1,
 		"code": "MW"
 	},
 	{
 		"code3": "MYS",
 		"name": "Malaysia",
-		"value": 0,
+		"value": 1,
 		"code": "MY"
 	},
 	{
@@ -866,7 +866,7 @@
 	{
 		"code3": "NPL",
 		"name": "Nepal",
-		"value": 0,
+		"value": 1,
 		"code": "NP"
 	},
 	{
@@ -920,7 +920,7 @@
 	{
 		"code3": "PNG",
 		"name": "Papua New Guinea",
-		"value": 0,
+		"value": 1,
 		"code": "PG"
 	},
 	{
@@ -1124,7 +1124,7 @@
 	{
 		"code3": "THA",
 		"name": "Thailand",
-		"value": 0,
+		"value": 1,
 		"code": "TH"
 	},
 	{
@@ -1141,8 +1141,8 @@
 	},
 	{
 		"code3": "TLS",
-		"name": "Timor-Leste",
-		"value": 0,
+		"name": "Timor L'este",
+		"value": 1,
 		"code": "TL"
 	},
 	{
@@ -1238,7 +1238,7 @@
 	{
 		"code3": "VNM",
 		"name": "Vietnam",
-		"value": 0,
+		"value": 5,
 		"code": "VN"
 	},
 	{
@@ -1262,13 +1262,13 @@
 	{
 		"code3": "ZAF",
 		"name": "South Africa",
-		"value": 0,
+		"value": 1,
 		"code": "ZA"
 	},
 	{
 		"code3": "ZMB",
 		"name": "Zambia",
-		"value": 0,
+		"value": 1,
 		"code": "ZM"
 	},
 	{
