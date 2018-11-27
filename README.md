@@ -194,7 +194,7 @@
 	{
 		"code3": "CAN",
 		"name": "Canada",
-		"value": 15,
+		"value": 0,
 		"code": "CA"
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"code3": "FRA",
 		"name": "France",
-		"value": 30,
+		"value": 0,
 		"code": "FR"
 	},
 	{
@@ -878,7 +878,7 @@
 	{
 		"code3": "NZL",
 		"name": "New Zealand",
-		"value": 35,
+		"value": 0,
 		"code": "NZ"
 	},
 	{
