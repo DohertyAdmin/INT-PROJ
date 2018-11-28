@@ -104,7 +104,7 @@
 	{
 		"code3": "BGD",
 		"name": "Bangladesh",
-		"value": 2,
+		"value": 4,
 		"code": "BD"
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"code3": "CHN",
 		"name": "China",
-		"value": 1,
+		"value": 3,
 		"code": "CN"
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"code3": "FJI",
 		"name": "Fiji",
-		"value": 2,
+		"value": 4,
 		"code": "FJ"
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"code3": "HKG",
 		"name": "Hong Kong SAR, China",
-		"value": 0,
+		"value": 1,
 		"code": "HK"
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"code3": "IDN",
 		"name": "Indonesia",
-		"value": 3,
+		"value": 6,
 		"code": "ID"
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"code3": "IND",
 		"name": "India",
-		"value": 2,
+		"value": 7,
 		"code": "IN"
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"code3": "JPN",
 		"name": "Japan",
-		"value": 1,
+		"value": 2,
 		"code": "JP"
 	},
 	{
@@ -602,13 +602,13 @@
 	{
 		"code3": "KHM",
 		"name": "Cambodia",
-		"value": 0,
+		"value": 2,
 		"code": "KH"
 	},
 	{
 		"code3": "KIR",
 		"name": "Kiribati",
-		"value": 0,
+		"value": 1,
 		"code": "KI"
 	},
 	{
@@ -632,7 +632,7 @@
 	{
 		"code3": "LAO",
 		"name": "Lao PDR",
-		"value": 0,
+		"value": 2,
 		"code": "LA"
 	},
 	{
@@ -668,7 +668,7 @@
 	{
 		"code3": "LKA",
 		"name": "Sri Lanka",
-		"value": 0,
+		"value": 2,
 		"code": "LK"
 	},
 	{
@@ -782,7 +782,7 @@
 	{
 		"code3": "MNG",
 		"name": "Mongolia",
-		"value": 0,
+		"value": 1,
 		"code": "MN"
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"code3": "MWI",
 		"name": "Malawi",
-		"value": 1,
+		"value": 2,
 		"code": "MW"
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"code3": "PHL",
 		"name": "Philippines",
-		"value": 0,
+		"value": 3,
 		"code": "PH"
 	},
 	{
@@ -920,7 +920,7 @@
 	{
 		"code3": "PNG",
 		"name": "Papua New Guinea",
-		"value": 1,
+		"value": 6,
 		"code": "PG"
 	},
 	{
@@ -1202,7 +1202,7 @@
 	{
 		"code3": "USA",
 		"name": "United States",
-		"value": 0,
+		"value": 1,
 		"code": "US"
 	},
 	{
@@ -1238,7 +1238,7 @@
 	{
 		"code3": "VNM",
 		"name": "Vietnam",
-		"value": 5,
+		"value": 8,
 		"code": "VN"
 	},
 	{
