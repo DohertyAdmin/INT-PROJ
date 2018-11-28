@@ -63,7 +63,8 @@
 		"code3": "AUS",
 		"name": "Australia",
 		"value": 2,
-		"code": "AU"
+		"code": "AU",
+		"detail": "Some text about the Aus projects"
 	},
 	{
 		"code3": "AUT",
