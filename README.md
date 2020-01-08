@@ -1183,6 +1183,12 @@
 		"code": "TZ"
 	},
 	{
+		"code3": "TWN",
+		"name": "Taiwan",
+		"value": 1,
+		"code": "TW"
+	},
+	{
 		"code3": "UGA",
 		"name": "Uganda",
 		"value": 0,
