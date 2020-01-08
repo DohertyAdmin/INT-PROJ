@@ -1,5 +1,11 @@
 [
 	{
+		"code3": "-99",
+		"name": "Kosovo",
+		"value": 0,
+		"code": "KV"
+	},
+	{
 		"code3": "ABW",
 		"name": "Aruba",
 		"value": 0,
@@ -341,6 +347,12 @@
 		"name": "Egypt, Arab Rep.",
 		"value": 0,
 		"code": "EG"
+	},
+	{
+		"code3": "ERI",
+		"name": "Eritrea",
+		"value": 0,
+		"code": "ER"
 	},
 	{
 		"code3": "ESP",
@@ -1049,6 +1061,12 @@
 		"name": "Serbia",
 		"value": 0,
 		"code": "RS"
+	},
+	{
+		"code3": "SSD",
+		"name": "South Sudan",
+		"value": 0,
+		"code": "SS"
 	},
 	{
 		"code3": "STP",
