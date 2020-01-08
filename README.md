@@ -62,7 +62,7 @@
 	{
 		"code3": "AUS",
 		"name": "Australia",
-		"value": 2,
+		"value": 1,
 		"code": "AU",
 		"detail": "Some text about the Aus projects"
 	},
@@ -171,13 +171,13 @@
 	{
 		"code3": "BRN",
 		"name": "Brunei Darussalam",
-		"value": 1,
+		"value": 0,
 		"code": "BN"
 	},
 	{
 		"code3": "BTN",
 		"name": "Bhutan",
-		"value": 0,
+		"value": 1,
 		"code": "BT"
 	},
 	{
@@ -195,7 +195,7 @@
 	{
 		"code3": "CAN",
 		"name": "Canada",
-		"value": 0,
+		"value": 2,
 		"code": "CA"
 	},
 	{
@@ -375,7 +375,7 @@
 	{
 		"code3": "FRA",
 		"name": "France",
-		"value": 0,
+		"value": 1,
 		"code": "FR"
 	},
 	{
@@ -513,7 +513,7 @@
 	{
 		"code3": "IDN",
 		"name": "Indonesia",
-		"value": 6,
+		"value": 3,
 		"code": "ID"
 	},
 	{
@@ -525,7 +525,7 @@
 	{
 		"code3": "IND",
 		"name": "India",
-		"value": 7,
+		"value": 4,
 		"code": "IN"
 	},
 	{
@@ -603,7 +603,7 @@
 	{
 		"code3": "KHM",
 		"name": "Cambodia",
-		"value": 2,
+		"value": 6,
 		"code": "KH"
 	},
 	{
@@ -633,7 +633,7 @@
 	{
 		"code3": "LAO",
 		"name": "Lao PDR",
-		"value": 2,
+		"value": 3,
 		"code": "LA"
 	},
 	{
@@ -771,7 +771,7 @@
 	{
 		"code3": "MMR",
 		"name": "Myanmar",
-		"value": 0,
+		"value": 1,
 		"code": "MM"
 	},
 	{
@@ -819,7 +819,7 @@
 	{
 		"code3": "MYS",
 		"name": "Malaysia",
-		"value": 1,
+		"value": 4,
 		"code": "MY"
 	},
 	{
@@ -843,7 +843,7 @@
 	{
 		"code3": "NGA",
 		"name": "Nigeria",
-		"value": 0,
+		"value": 1,
 		"code": "NG"
 	},
 	{
@@ -867,7 +867,7 @@
 	{
 		"code3": "NPL",
 		"name": "Nepal",
-		"value": 1,
+		"value": 6,
 		"code": "NP"
 	},
 	{
@@ -921,7 +921,7 @@
 	{
 		"code3": "PNG",
 		"name": "Papua New Guinea",
-		"value": 6,
+		"value": 3,
 		"code": "PG"
 	},
 	{
@@ -1011,13 +1011,13 @@
 	{
 		"code3": "SGP",
 		"name": "Singapore",
-		"value": 0,
+		"value": 2,
 		"code": "SG"
 	},
 	{
 		"code3": "SLB",
 		"name": "Solomon Islands",
-		"value": 0,
+		"value": 1,
 		"code": "SB"
 	},
 	{
@@ -1125,7 +1125,7 @@
 	{
 		"code3": "THA",
 		"name": "Thailand",
-		"value": 1,
+		"value": 3,
 		"code": "TH"
 	},
 	{
@@ -1143,7 +1143,7 @@
 	{
 		"code3": "TLS",
 		"name": "Timor L'este",
-		"value": 1,
+		"value": 2,
 		"code": "TL"
 	},
 	{
@@ -1203,7 +1203,7 @@
 	{
 		"code3": "USA",
 		"name": "United States",
-		"value": 1,
+		"value": 3,
 		"code": "US"
 	},
 	{
@@ -1251,7 +1251,7 @@
 	{
 		"code3": "WSM",
 		"name": "Samoa",
-		"value": 0,
+		"value": 1,
 		"code": "WS"
 	},
 	{
