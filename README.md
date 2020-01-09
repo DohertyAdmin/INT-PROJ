@@ -5,6 +5,24 @@
 		"value": 0,
 		"code": "KV"
 	},
+		{
+		"code3": "-99",
+		"name": "Somaliland",
+		"value": 0,
+		"code": "SX"
+	},
+		{
+		"code3": "-99",
+		"name": "Northern Cyprus",
+		"value": 0,
+		"code": "NC"
+	},
+		{
+		"code3": "-99",
+		"name": "Cyprus No Mans Area",
+		"value": 0,
+		"code": "CN"
+	},
 	{
 		"code3": "ABW",
 		"name": "Aruba",
