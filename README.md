@@ -86,7 +86,7 @@
 	{
 		"code3": "AUS",
 		"name": "Australia",
-		"value": 1,
+		"value": 0,
 		"code": "AU",
 		"detail": "Some text about the Aus projects"
 	},
@@ -249,7 +249,7 @@
 	{
 		"code3": "CMR",
 		"name": "Cameroon",
-		"value": 1,
+		"value": 0,
 		"code": "CM"
 	},
 	{
@@ -555,7 +555,7 @@
 	{
 		"code3": "IND",
 		"name": "India",
-		"value": 4,
+		"value": 3,
 		"code": "IN"
 	},
 	{
@@ -609,7 +609,7 @@
 	{
 		"code3": "JPN",
 		"name": "Japan",
-		"value": 2,
+		"value": 1,
 		"code": "JP"
 	},
 	{
@@ -651,7 +651,7 @@
 	{
 		"code3": "KOR",
 		"name": "Korea, Rep.",
-		"value": 0,
+		"value": 1,
 		"code": "KR"
 	},
 	{
@@ -939,7 +939,7 @@
 	{
 		"code3": "PHL",
 		"name": "Philippines",
-		"value": 3,
+		"value": 1,
 		"code": "PH"
 	},
 	{
@@ -951,7 +951,7 @@
 	{
 		"code3": "PNG",
 		"name": "Papua New Guinea",
-		"value": 3,
+		"value": 2,
 		"code": "PG"
 	},
 	{
@@ -1281,7 +1281,7 @@
 	{
 		"code3": "VNM",
 		"name": "Vietnam",
-		"value": 8,
+		"value": 7,
 		"code": "VN"
 	},
 	{
