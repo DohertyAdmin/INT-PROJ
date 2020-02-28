@@ -237,7 +237,7 @@
 	{
 		"code3": "CHN",
 		"name": "China",
-		"value": 3,
+		"value": 4,
 		"code": "CN"
 	},
 	{
@@ -399,7 +399,7 @@
 	{
 		"code3": "FJI",
 		"name": "Fiji",
-		"value": 4,
+		"value": 5,
 		"code": "FJ"
 	},
 	{
@@ -633,13 +633,13 @@
 	{
 		"code3": "KHM",
 		"name": "Cambodia",
-		"value": 6,
+		"value": 7,
 		"code": "KH"
 	},
 	{
 		"code3": "KIR",
 		"name": "Kiribati",
-		"value": 1,
+		"value": 2,
 		"code": "KI"
 	},
 	{
@@ -663,7 +663,7 @@
 	{
 		"code3": "LAO",
 		"name": "Lao PDR",
-		"value": 3,
+		"value": 4,
 		"code": "LA"
 	},
 	{
@@ -813,7 +813,7 @@
 	{
 		"code3": "MNG",
 		"name": "Mongolia",
-		"value": 1,
+		"value": 2,
 		"code": "MN"
 	},
 	{
@@ -849,7 +849,7 @@
 	{
 		"code3": "MYS",
 		"name": "Malaysia",
-		"value": 4,
+		"value": 5,
 		"code": "MY"
 	},
 	{
@@ -939,7 +939,7 @@
 	{
 		"code3": "PHL",
 		"name": "Philippines",
-		"value": 1,
+		"value": 2,
 		"code": "PH"
 	},
 	{
@@ -1047,7 +1047,7 @@
 	{
 		"code3": "SLB",
 		"name": "Solomon Islands",
-		"value": 1,
+		"value": 2,
 		"code": "SB"
 	},
 	{
@@ -1281,13 +1281,13 @@
 	{
 		"code3": "VNM",
 		"name": "Vietnam",
-		"value": 7,
+		"value": 8,
 		"code": "VN"
 	},
 	{
 		"code3": "VUT",
 		"name": "Vanuatu",
-		"value": 0,
+		"value": 1,
 		"code": "VU"
 	},
 	{
